@@ -1,4 +1,4 @@
-#Music Player Web Application
+Music Player Web Application
 
 1. Overview :
    This is a simple and interactive music player web application built using HTML, CSS, and JavaScript. The application allows users to play, pause, and navigate through a playlist of songs. It also includes a responsive design and animated UI elements.
